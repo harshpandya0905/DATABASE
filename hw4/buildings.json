@@ -1,0 +1,232 @@
+{"Buildings": {
+    "Building": [
+        {
+            "BuildingCode": "KOH",
+            "Address": {
+                "Zip": 90007,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "W 34th St",
+                "StreetNo": 1027
+            },
+            "Position": {
+                "lon": -118.288,
+                "lat": 34.024547
+            },
+            "BuildingName": "King Olympic Hall"
+        },
+        {
+            "BuildingCode": "CFX",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "W 34th St",
+                "StreetNo": 1026
+            },
+            "Position": {
+                "lon": -118.289,
+                "lat": 34.021631
+            },
+            "BuildingName": "Cromwell Field"
+        },
+        {
+            "BuildingCode": "JEP",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "W 34th St",
+                "StreetNo": 801
+            },
+            "Position": {
+                "lon": -118.284,
+                "lat": 34.022947
+            },
+            "BuildingName": "JEP House"
+        },
+        {
+            "BuildingCode": "SHC",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "W 3th St",
+                "StreetNo": 849
+            },
+            "Position": {
+                "lon": -118.285,
+                "lat": 34.023303
+            },
+            "BuildingName": "Student Health Center"
+        },
+        {
+            "BuildingCode": "LVY",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "W 35th St",
+                "StreetNo": 651
+            },
+            "Position": {
+                "lon": -118.282,
+                "lat": 34.021595
+            },
+            "BuildingName": "Leavey Library"
+        },
+        {
+            "BuildingCode": "VKC",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "Trousdale",
+                "StreetNo": 3518
+            },
+            "Position": {
+                "lon": -118.284,
+                "lat": 34.021649
+            },
+            "BuildingName": "Von KleinSmid Center"
+        },
+        {
+            "BuildingCode": "WPH",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "Trousdale",
+                "StreetNo": 3550
+            },
+            "Position": {
+                "lon": -118.284,
+                "lat": 34.022289
+            },
+            "BuildingName": "Waite Phillips Hall"
+        },
+        {
+            "BuildingCode": "JHH",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "Childs Way",
+                "StreetNo": 615
+            },
+            "Position": {
+                "lon": -118.284,
+                "lat": 34.020101
+            },
+            "BuildingName": "John Hubbard Hall"
+        },
+        {
+            "BuildingCode": "REG",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "Childs Way",
+                "StreetNo": 611
+            },
+            "Position": {
+                "lon": -118.282,
+                "lat": 34.019603
+            },
+            "BuildingName": "Registration Building"
+        },
+        {
+            "BuildingCode": "STU",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "Trousdale",
+                "StreetNo": 3551
+            },
+            "Position": {
+                "lon": -118.286,
+                "lat": 34.020226
+            },
+            "BuildingName": "Student Union"
+        },
+        {
+            "BuildingCode": "BKS",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "Childs Way",
+                "StreetNo": 840
+            },
+            "Position": {
+                "lon": -118.286,
+                "lat": 34.020635
+            },
+            "BuildingName": "Bookstore"
+        },
+        {
+            "BuildingCode": "RTH",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "McClintock",
+                "StreetNo": 3710
+            },
+            "Position": {
+                "lon": -118.29,
+                "lat": 34.020137
+            },
+            "BuildingName": "Ronald Tutor Hall"
+        },
+        {
+            "BuildingCode": "SAL",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "W 37th Place",
+                "StreetNo": 941
+            },
+            "Position": {
+                "lon": -118.289,
+                "lat": 34.01955
+            },
+            "BuildingName": "Salvatori Com. Center"
+        },
+        {
+            "BuildingCode": "EEB",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "McClintock",
+                "StreetNo": 3715
+            },
+            "Position": {
+                "lon": -118.29,
+                "lat": 34.019728
+            },
+            "BuildingName": "Electrical Engr Center"
+        },
+        {
+            "BuildingCode": "OHE",
+            "Address": {
+                "Zip": 90089,
+                "State": "CA",
+                "City": "Los Angeles",
+                "StrName": "McClintock",
+                "StreetNo": 3650
+            },
+            "Position": {
+                "lon": -118.29,
+                "lat": 34.020493
+            },
+            "BuildingName": "Olin Hall Engineering"
+        }
+    ],
+    "xmlns:mstns": "http://tempuri.org/buildings.xsd",
+    "xsi:noNamespaceSchemaLocation": "buildings.xsd",
+    "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+}}
